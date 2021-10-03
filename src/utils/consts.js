@@ -1,0 +1,5 @@
+export const HOME_ROUTE = '/'
+export const MISSION_ROUTE = '/missions'
+export const ABOUT_ROUTE = '/about' 
+export const DATA_ROUTE = '/data'
+export const REF_ROUTE = '/references'
